@@ -65,8 +65,7 @@ defaultImage = "default-image.png" # put in `./assets/images/`
 fillImage = "1270x740 Center" # normalize image size
 
 # Footer
-footer = "Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, and <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a>
-<a>© 2023 Prateek Bhagdev. The MIT (Massachusetts Institute of Technology) License.</a>"
+footer = "Powered by <a class=\"text-muted\" href=\"https://www.netlify.com/\">Netlify</a>, and <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a> <p>© 2023 Prateek Bhagdev. The MIT (Massachusetts Institute of Technology) License.</p>"
 
 # Feed
 copyRight = "Copyright (c) 2020-2021 Henk Verlinde"
