@@ -23,10 +23,10 @@ twitterCreator = "@prateekbhagdev"
 # schemaType = "Person"
 schemaType = "Organization"
 schemaName = "Doks"
-schemaAuthor = "Henk Verlinde"
-schemaAuthorTwitter = "https://twitter.com/henkverlinde"
-schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
-schemaAuthorGitHub = "https://github.com/h-enk"
+schemaAuthor = "Prateek Bhagdev"
+schemaAuthorTwitter = "https://twitter.com/prateekbhagdev"
+schemaAuthorLinkedIn = "https://www.linkedin.com/in/prateekbhagdev/"
+schemaAuthorGitHub = "https://github.com/prateekbhagdev"
 schemaLocale = "en-US"
 schemaLogo = "logo-doks.png"
 schemaLogoWidth = 512
@@ -34,9 +34,9 @@ schemaLogoHeight = 512
 schemaImage = "doks.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/getdoks"
-schemaLinkedIn = ""
-schemaGitHub = "https://github.com/h-enk/doks"
+schemaTwitter = "https://twitter.com/prateekbhagdev"
+schemaLinkedIn = "https://www.linkedin.com/in/prateekbhagdev/"
+schemaGitHub = "https://github.com/h-enk/prateekbhagdev"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
