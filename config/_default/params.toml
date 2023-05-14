@@ -16,8 +16,8 @@ domainTLD = "doks.netlify.app"
 titleHome = "Doks Theme"
 
 ## Twitter Cards
-twitterSite = "@getdoks"
-twitterCreator = "@henkverlinde"
+twitterSite = "@prateekbhagdev"
+twitterCreator = "@prateekbhagdev"
 
 ## JSON-LD
 # schemaType = "Person"
