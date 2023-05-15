@@ -1,10 +1,51 @@
----
-title: "Contact"
-description: "Drop us an email."
-date: 2020-08-27T19:25:12+02:00
-lastmod: 2020-08-27T19:25:12+02:00
-draft: false
-images: []
----
+{{ define "main" }}
+<section class="section container-fluid mt-n3 pb-3">
+  <div class="row justify-content-center">
+    <div class="col-lg-12 text-center">
+      <h1 class="mt-0">Contact</h1>
+    </div>
+    
+    <div class="col-lg-9 col-xl-8 text-center">
+      <p class="meta">{{ .Params.lead | safeHTML }}</p>
+    <!--
+      <a class="btn btn-primary btn-lg px-4 mb-2" href="/docs/{{ if .Site.Params.options.docsVersioning }}{{ .Site.Params.docsVersion }}/{{ end }}prologue/introduction/" role="button">{{ i18n "get-started" }}</a>
+      <p class="meta">Open-source MIT Licensed. <a href="https://github.com/h-enk/doks">GitHub v{{ $data := getJSON "/package.json" }}{{ $data.version }}</a></p>
+    -->
+    </div>
+    
+  </div>
+</section>
+{{ end }}
 
-{{< email user="hello" domain="getdoks.org" >}}
+{{ define "sidebar-prefooter" }}
+  {{ if eq $.Site.Language.LanguageName "English" }}
+  <section class="section section-sm">
+    <div class="container">
+      <div class="row justify-content-center text-left">
+        <div class="col-lg-12">
+          <p>I come from Shahdol, a small town in India. I completed my bachelors degree in Computer Science & Engineering, & Yeah... I dropped out of Electronics & Communication Engineering prior to that. I graduated as PGD in Advance Computing from Centre for Development of Advanced Computing, & PGD in Information Technology Management from Symbiosis Centre for Management & Human Resource Development.</p>
+
+<p>I work in the fields of Product Management, Design, Technology, HCI & Human Factors. I believe there is lot that we can apply & connect with these fields into this huge universe, & vice versa. I do what I love and I love what I do. I like thinking, observing, & working on ideas whenever have one. I believe in creating opportunities and possibilities in the world by amalgamation of technology and creativity.</p>
+
+<p>I love to help create compelling products with emphasis on design & technology. I possess keen interest for AI, gesture interfaces, touchable technology & mobility. My key skills include product strategy & roadmap definition, persona identification, user journey mapping, product prototyping & testing, user research & analysis, nurture & commercialize products & solutions for different platforms such as zero interfaces, smart interfaces, wearables, mobile devices & desktops etc.</p>
+
+      <p>I follow motor sports & profoundly the Formula 1 🚀</p>
+
+<p>Bragging rights: I’ve been almost shot at while writing a code logic in a 120-degree tent, I’ve made ice-creams out of Water Only, and I’m a pretty good cook 😁</p>
+          
+        </div>
+      </div>
+    </div>
+  </section>
+  {{ end }}
+{{ end }}
+
+{{ define "sidebar-footer" }}
+<section class="section section-sm container-fluid">
+  <div class="row justify-content-center text-center">
+    <div class="col-lg-9">
+      {{- .Content -}}
+    </div>
+  </div>
+</section>
+{{ end }}
