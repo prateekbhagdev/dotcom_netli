@@ -48,7 +48,7 @@
   name = "Contact"
   weight = 30
   identifier = "get-started"
-  url = "/docs/prologue/introduction/"
+  url = "/contact/"
 
 #[[main]]
  # name = "Quick Start"
