@@ -32,7 +32,7 @@
   name = "Resume"
   url = "/docs/prologue/introduction/"
 # url = "/docs/1.0/prologue/introduction/"
-  weight = 10
+  weight = 30
 
 # [[main]]
 #   name = "Tutorial"
