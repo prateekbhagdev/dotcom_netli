@@ -81,8 +81,7 @@ images: []
                         <article>
                             <h1>Contact</h1>
                         </article>
-                                            </div>
-                    
+                    </div>
                 </div>
             </div>
         </div>
@@ -100,6 +99,18 @@ There are two main ways to get started with Doks:
 {{< alert icon="👉" text="The Tutorial is intended for novice to intermediate users." />}}
 
 Step-by-step instructions on how to start a new Doks project. [Tutorial →](https://getdoks.org/tutorial/introduction/)
+
+### Install dependencies
+
+```bash
+npm install
+```
+
+### Start development server
+
+```bash
+npm run start
+```
         </p>
         </div>
         </div>
