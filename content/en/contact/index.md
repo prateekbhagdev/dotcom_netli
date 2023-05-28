@@ -100,10 +100,10 @@ There are two main ways to get started with Doks:
 
 Step-by-step instructions on how to start a new Doks project. [Tutorial →](https://getdoks.org/tutorial/introduction/)
 
-### Install dependencies
+### 📧 Email
 
 ```bash
-📧 prateekbhagdev@gmail.com
+prateekbhagdev@gmail.com
 ```
 
 ### Start development server
