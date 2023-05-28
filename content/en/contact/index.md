@@ -78,7 +78,6 @@ images: []
             <div class="home">
                 <div class="row justify-content-center">
                 <h1><img src=prateek-london-bridge.jpg alt="London Bridge"></h1>
-                <p class="meta">"Southwark, London, United Kingdom"</p>
                     <div class="col-lg-12 text-center">
                         <article>
                             <h1>Contact</h1>
