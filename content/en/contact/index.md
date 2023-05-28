@@ -73,7 +73,7 @@ images: []
         <link rel=icon type=image/png sizes=16x16 href=https://doks.netlify.app/favicon-16x16.png>
         <link rel=manifest crossorigin=use-credentials href=https://doks.netlify.app/site.webmanifest>
     </head>
-    <body class="single page">
+    <body class="home">
         <div class="wrap container-xxl" role=document>
             <div class=home>
                 <div class="row justify-content-center">
