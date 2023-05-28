@@ -77,7 +77,7 @@ images: []
         <div class="wrap container-xxl" role=document>
             <div class=home>
                 <div class="row justify-content-center">
-                    <div class="col-md-12 col-lg-10 col-xl-8 text-center">
+                    <div class="col-lg-12 text-center">
                         <article>
                             <h1>Contact</h1>
                         </article>
