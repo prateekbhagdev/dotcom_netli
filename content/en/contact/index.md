@@ -80,7 +80,17 @@ images: []
                     <div class="col-md-12 col-lg-10 col-xl-8 text-center">
                         <article>
                             <h1>Contact</h1>
-                                                    </article>
+                        </article>
+                        ## Get started
+
+There are two main ways to get started with Doks:
+
+### Tutorial
+
+{{< alert icon="👉" text="The Tutorial is intended for novice to intermediate users." />}}
+
+Step-by-step instructions on how to start a new Doks project. [Tutorial →](https://getdoks.org/tutorial/introduction/)
+
                     </div>
                 </div>
             </div>
