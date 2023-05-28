@@ -81,7 +81,9 @@ images: []
                         <article>
                             <h1>Contact</h1>
                         </article>
-                        ## Get started
+                                            </div>
+                    <div class="col-lg-12 text-center">
+                    ## Get started
 
 There are two main ways to get started with Doks:
 
@@ -91,7 +93,7 @@ There are two main ways to get started with Doks:
 
 Step-by-step instructions on how to start a new Doks project. [Tutorial →](https://getdoks.org/tutorial/introduction/)
 
-                    </div>
+    </div>
                 </div>
             </div>
         </div>
