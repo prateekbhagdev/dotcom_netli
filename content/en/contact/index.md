@@ -103,7 +103,7 @@ Step-by-step instructions on how to start a new Doks project. [Tutorial →](htt
 ### Install dependencies
 
 ```bash
-npm install
+📧 prateekbhagdev@gmail.com
 ```
 
 ### Start development server
