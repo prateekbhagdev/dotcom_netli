@@ -100,16 +100,16 @@ There are two main ways to get started with Doks:
 
 Step-by-step instructions on how to start a new Doks project. [Tutorial →](https://getdoks.org/tutorial/introduction/)
 
-### 📧 Email
+### 📩 Email
 
 ```bash
 prateekbhagdev@gmail.com
 ```
 
-### Start development server
+### 📲 Call
 
 ```bash
-npm run start
++91 988 100 8224
 ```
         </p>
         </div>
