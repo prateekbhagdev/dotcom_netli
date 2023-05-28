@@ -90,13 +90,14 @@ images: []
         <div class="row justify-content-center text-left">
         <div class="col-lg-12">
         <p>
+There are two quick ways to reach me:
 ### 📩 Email
 
 ```bash
 prateekbhagdev@gmail.com
 ```
 
-### 📲 Phone
+### 📲 Call
 
 ```bash
 +91 988 100 8224
