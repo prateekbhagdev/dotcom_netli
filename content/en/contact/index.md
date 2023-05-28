@@ -63,7 +63,7 @@ images: []
         <meta name=twitter:image content="https://doks.netlify.app/doks.png">
         <meta name=twitter:image:alt content="Contact">
         <script type=application/ld+json>
-        
+            {"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://doks.netlify.app/#/schema/organization/1","name":"Doks","url":"https://doks.netlify.app/","sameAs":["https://twitter.com/prateekbhagdev","https://www.linkedin.com/in/prateekbhagdev/","https://github.com/h-enk/prateekbhagdev"],"logo":{"@type":"ImageObject","@id":"https://doks.netlify.app/#/schema/image/1","url":"https://doks.netlify.app/logo-doks.png","width":512,"height":512,"caption":"Doks"},"image":{"@id":"https://doks.netlify.app/#/schema/image/1"}},{"@type":"WebSite","@id":"https://doks.netlify.app/#/schema/website/1","url":"https://doks.netlify.app/","name":"Prateek Bhagdev","description":"I come from Shahdol, a small town in India. I completed my bachelors degree in Computer Science \u0026 Engineering, \u0026 Yeah... I dropped out of Electronics \u0026 Communication Engineering prior to that. I graduated as PGD in Advance Computing from Centre for Development of Advanced Computing, \u0026 PGD in Information Technology Management from Symbiosis Centre for Management \u0026 Human Resource Development.","publisher":{"@id":"https://doks.netlify.app/#/schema/organization/1"}},{"@type":"WebPage","@id":"https://doks.netlify.app/contact/","url":"https://doks.netlify.app/contact/","name":"Contact","description":"Drop us an email.","isPartOf":{"@id":"https://doks.netlify.app/#/schema/website/1"},"about":{"@id":"https://doks.netlify.app/#/schema/organization/1"},"datePublished":"2020-08-27T19:25:12CET","dateModified":"2020-08-27T19:25:12CET","breadcrumb":{"@id":"https://doks.netlify.app/contact/#/schema/breadcrumb/1"},"primaryImageOfPage":{"@id":"https://doks.netlify.app/contact/#/schema/image/2"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://doks.netlify.app/contact/"]}]},{"@type":"BreadcrumbList","@id":"https://doks.netlify.app/contact/#/schema/breadcrumb/1","name":"Breadcrumbs","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://doks.netlify.app/","url":"https://doks.netlify.app/","name":"Home"}},{"@type":"ListItem","position":2,"item":{"@id":"https://doks.netlify.app/contact/"}}]},{"@context":"https://schema.org","@graph":[{"@type":"ImageObject","@id":"https://doks.netlify.app/contact/#/schema/image/2","url":"https://doks.netlify.app/doks.png","contentUrl":"https://doks.netlify.app/doks.png","caption":"Contact"}]}]}
         </script>
         <meta name=theme-color content="#fff">
         <link rel=icon href=https://doks.netlify.app/favicon.ico sizes=any>
@@ -91,7 +91,7 @@ images: []
         <div class="row justify-content-center text-left">
         <div class="col-lg-12">
         <p>
-        ## Get started
+## Get started
 
 There are two main ways to get started with Doks:
 
