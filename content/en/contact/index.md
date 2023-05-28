@@ -75,7 +75,7 @@ images: []
     </head>
     <body class="home">
         <div class="wrap container-xxl" role=document>
-            <div class="container">
+            <div class="content">
                 <div class="row justify-content-center">
                     <div class="col-lg-12 text-center">
                         <article>
