@@ -98,7 +98,7 @@ There are two quick ways to reach me:
 prateekbhagdev@gmail.com
 ```
 
-### 📲 Call
+### 📲 Phone
 
 ```bash
 +91 988 100 8224
