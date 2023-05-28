@@ -85,11 +85,11 @@ images: []
                 </div>
             </div>
         </div>
-        <section class="section section-sm">
-        <div class="container">
-        <div class="row justify-content-center text-left">
-        <div class="col-lg-12">
-        
+<section class="section section-sm">
+<div class="container">
+<div class="row justify-content-center text-left">
+<div class="col-lg-12">
+  
 There are two quick ways to reach me:
 
 ### 📩 Email
@@ -103,11 +103,11 @@ prateekbhagdev@gmail.com
 ```bash
 +91 988 100 8224
 ```
-        
-        </div>
-        </div>
-        </div>
-        </section>
+  
+</div>
+</div>
+</div>
+</section>
         
         <script src=/js/bootstrap.min.650aeec64c81d69d4c0850fc73c93da3f0330cec0a27772feed7f90f60baa5f47f1c45687d71914bdafd1c4e860d40f6dc08ede27a2f08431ff929c9a2d24621.js integrity="sha512-ZQruxkyB1p1MCFD8c8k9o/AzDOwKJ3cv7tf5D2C6pfR/HEVofXGRS9r9HE6GDUD23Ajt4novCEMf+SnJotJGIQ==" crossorigin=anonymous defer></script>
         <script src=/js/highlight.min.3f0a703c54cbed82ca277187e23cf2d272da28c15ce7e33cde685d40b53d741893d5b74d35bb2d20a81f56c289084f245bdd0c9145d39d7094d3dfbc62d1326a.js integrity="sha512-PwpwPFTL7YLKJ3GH4jzy0nLaKMFc5+M83mhdQLU9dBiT1bdNNbstIKgfVsKJCE8kW90MkUXTnXCU09+8YtEyag==" crossorigin=anonymous defer></script>
