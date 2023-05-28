@@ -90,6 +90,7 @@ images: []
         <div class="container">
         <div class="row justify-content-center text-left">
         <div class="col-lg-12">
+        <p>
         ## Get started
 
 There are two main ways to get started with Doks:
@@ -99,7 +100,7 @@ There are two main ways to get started with Doks:
 {{< alert icon="👉" text="The Tutorial is intended for novice to intermediate users." />}}
 
 Step-by-step instructions on how to start a new Doks project. [Tutorial →](https://getdoks.org/tutorial/introduction/)
-
+        </p>
         </div>
         </div>
         </div>
