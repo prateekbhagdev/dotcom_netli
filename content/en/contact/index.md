@@ -82,8 +82,15 @@ images: []
                             <h1>Contact</h1>
                         </article>
                                             </div>
-                    <div class="col-lg-12 text-center">
-                    ## Get started
+                    
+                </div>
+            </div>
+        </div>
+        <section class="section section-sm">
+        <div class="container">
+        <div class="row justify-content-center text-left">
+        <div class="col-lg-12">
+        ## Get started
 
 There are two main ways to get started with Doks:
 
@@ -93,10 +100,11 @@ There are two main ways to get started with Doks:
 
 Step-by-step instructions on how to start a new Doks project. [Tutorial →](https://getdoks.org/tutorial/introduction/)
 
-    </div>
-                </div>
-            </div>
         </div>
+        </div>
+        </div>
+        </section>
+        
         <script src=/js/bootstrap.min.650aeec64c81d69d4c0850fc73c93da3f0330cec0a27772feed7f90f60baa5f47f1c45687d71914bdafd1c4e860d40f6dc08ede27a2f08431ff929c9a2d24621.js integrity="sha512-ZQruxkyB1p1MCFD8c8k9o/AzDOwKJ3cv7tf5D2C6pfR/HEVofXGRS9r9HE6GDUD23Ajt4novCEMf+SnJotJGIQ==" crossorigin=anonymous defer></script>
         <script src=/js/highlight.min.3f0a703c54cbed82ca277187e23cf2d272da28c15ce7e33cde685d40b53d741893d5b74d35bb2d20a81f56c289084f245bdd0c9145d39d7094d3dfbc62d1326a.js integrity="sha512-PwpwPFTL7YLKJ3GH4jzy0nLaKMFc5+M83mhdQLU9dBiT1bdNNbstIKgfVsKJCE8kW90MkUXTnXCU09+8YtEyag==" crossorigin=anonymous defer></script>
         <script src=/main.min.cb2e2ebbf2e4002f3117addc33582923b2b3ae5265c22944cd117ebec7abe61c170417c4506d7a0f8f0fc9053dfdf441421d53601ac467042ff3d06ec0ba07fa.js integrity="sha512-yy4uu/LkAC8xF63cM1gpI7KzrlJlwilEzRF+vser5hwXBBfEUG16D48PyQU9/fRBQh1TYBrEZwQv89BuwLoH+g==" crossorigin=anonymous defer></script>
