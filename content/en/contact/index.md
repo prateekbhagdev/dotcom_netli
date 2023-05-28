@@ -103,10 +103,8 @@ prateekbhagdev@gmail.com
 ```bash
 +91 988 100 8224
 ```
-  
 </div>
 </div>
 </section>
-        
 </body>
 </html>
