@@ -77,6 +77,7 @@ images: []
         <div class="wrap container-xxl" role=document>
             <div class="home">
                 <div class="row justify-content-center">
+                <h1><img src=invidious-colored-vector.svg width=1080 height=192 alt="Invidious logo"></h1>
                     <div class="col-lg-12 text-center">
                         <article>
                             <h1>Contact</h1>
