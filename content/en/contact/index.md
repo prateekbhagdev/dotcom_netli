@@ -89,7 +89,7 @@ images: []
         <div class="container">
         <div class="row justify-content-center text-left">
         <div class="col-lg-12">
-        <p>
+        
 There are two quick ways to reach me:
 
 ### 📩 Email
@@ -103,7 +103,7 @@ prateekbhagdev@gmail.com
 ```bash
 +91 988 100 8224
 ```
-        </p>
+        
         </div>
         </div>
         </div>
