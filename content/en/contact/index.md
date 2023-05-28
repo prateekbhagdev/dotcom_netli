@@ -90,23 +90,13 @@ images: []
         <div class="row justify-content-center text-left">
         <div class="col-lg-12">
         <p>
-## Get started
-
-There are two main ways to get started with Doks:
-
-### Tutorial
-
-{{< alert icon="👉" text="The Tutorial is intended for novice to intermediate users." />}}
-
-Step-by-step instructions on how to start a new Doks project. [Tutorial →](https://getdoks.org/tutorial/introduction/)
-
 ### 📩 Email
 
 ```bash
 prateekbhagdev@gmail.com
 ```
 
-### 📲 Call
+### 📲 Phone
 
 ```bash
 +91 988 100 8224
