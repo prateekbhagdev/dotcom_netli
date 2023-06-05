@@ -28,7 +28,7 @@
 			{{ end }}
 			<h1>{{ .Title }}</h1>
 			<p class="lead">{{ .Params.lead | safeHTML }}</p>
-      <a class="btn btn-secondary btn-lg px-4 mb-2" href="{{ "docs/overview/introduction/" | relURL }}" role="button">Get Started</a>
+      <a class="btn btn-primary btn-lg px-4 mb-2" href="{{ "docs/overview/introduction/" | relURL }}" role="button">Get Started</a>
 			{{ if ne .Params.toc false -}}
 			<nav class="d-xl-none" aria-label="Quaternary navigation">
 				{{ partial "sidebar/docs-toc.html" . }}
