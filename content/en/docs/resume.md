@@ -11,6 +11,7 @@ toc: true
 ---
 
 ## A day in my life
+![Image](A-day-in-my-life.png "A day in my life")
 <p>
 <img src=A-day-in-my-life.png alt="A day in my life" style="border-radius: 3%; width: 500px; height: auto;">
 </p>
