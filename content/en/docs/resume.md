@@ -61,7 +61,7 @@ Certified Payment-card Industry Security Implementer (CPISI)
 PCI DSS / SISA, United States   
 
 
-## Extra-curricular & Personality Traits
+## Extra-curricular achievements 
 Mentored new team members & made them understand different tools.  
 Managed many cultural events at college level and in Cybage, ASPL & Vodafone.  
 Possess better interpersonal & communication skills.  
