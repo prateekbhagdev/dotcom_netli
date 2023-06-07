@@ -11,7 +11,9 @@ toc: true
 ---
 
 ## A day in my life
-![Image](A-day-in-my-life.jpg "A day in my life")
+<p>
+<img src=A-day-in-my-life.jpg alt="A day in my life" style="border-radius: 3%; width: 500px; height: auto;">
+</p>
 
 
 ## Education
