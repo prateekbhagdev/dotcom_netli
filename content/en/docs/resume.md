@@ -17,7 +17,7 @@ toc: true
 ## Education
 
 Post Graduate Diploma in Management (Technology Management)  
-Symbiosis Centre for Management & Human Resource Development 
+Symbiosis Centre for Management & Human Resource Developmen 
 
 Master of Design (Human Computer Interaction)  
 School of Computer Science & Engineering, Sandip University  
