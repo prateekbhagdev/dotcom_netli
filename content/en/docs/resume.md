@@ -10,7 +10,7 @@ weight: 100
 toc: true
 ---
 
-### Education
+## Education
 
 Post Graduate Diploma in Technology Management  
 Symbiosis Centre for Management & Human Resource Development 
@@ -20,6 +20,29 @@ School of Computer Science & Engineering, Sandip University
 
 Bachelor of Engineering (Computer Science & Engineering)  
 Radharaman Institute of Technology & Science 
+
+## Work experience
+
+Lead Product Strategist at Vodafone Technology Centre (VSSI), Designation – Manager  
+November 2018 to current, Product Management, User Journey Mapping, Competitive Analysis; Pune – India
+
+Sr. Product Strategist at Vodafone Technology Centre (VSSI), Designation – Deputy Manager  
+January 2018 to October 2018, Product Management, User Journey Mapping, Competitive Analysis; Pune – India 
+
+Product Strategist at Vodafone Technology Centre (VSSI), Designation – Assistant Manager  
+November 2015 to December 2017, Product Management, Research & User Experience Analysis; Pune – India 
+
+Founder at Zipplis  
+November 2015 to February 2017, Product Management & Strategy, Experience Design 
+
+Product Owner at Cognizant Technology Solutions, Designation – Associate (Projects)  
+March 2015 to October 2015, Product & Experience Strategy & Consulting; Pune – India 
+
+Product Manager at Ansh Systems Pvt. Ltd. (EE B.V.), Designation – Business Analyst  
+November 2013 to March 2015, Product Management Capability; Pune – India 
+
+Business Analyst at Cybage Software, Designation – Software Engineer  
+February 2011 to October 2013, Consulting & Development of Products & Applications; Pune – India 
 
 ### Tutorial
 
