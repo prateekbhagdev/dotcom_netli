@@ -77,7 +77,7 @@ images: []
         <div class="wrap container-xxl" role=document>
             <div class="home">
                 <div class="row justify-content-center">
-                <h1><img src=prateek-london-bridge.jpg alt="London Bridge"></h1>
+                <h1><img src=prateek-london-bridge.jpg alt="London Bridge" class="border-0 rounded-circle"></h1>
                     <div class="col-lg-12 text-center">
                         <article>
                             <h1>Contact</h1>
