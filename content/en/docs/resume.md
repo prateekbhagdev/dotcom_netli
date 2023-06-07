@@ -14,7 +14,7 @@ toc: true
 <img src=A-day-in-my-life.png alt="A day in my life" style="border-radius: 3%;">
 
 
-## Education
+## Educatio
 
 Post Graduate Diploma in Management (Technology Management)  
 Symbiosis Centre for Management & Human Resource Development 
