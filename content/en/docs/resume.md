@@ -10,9 +10,16 @@ weight: 100
 toc: true
 ---
 
-## Get started
+### Education
 
-There are two main ways to get started with Doks:
+Post Graduate Diploma in Technology Management  
+Symbiosis Centre for Management & Human Resource Development 
+
+Master of Design (Human Computer Interaction)  
+School of Computer Science & Engineering, Sandip University  
+
+Bachelor of Engineering (Computer Science & Engineering)  
+Radharaman Institute of Technology & Science 
 
 ### Tutorial
 
