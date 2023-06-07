@@ -12,7 +12,7 @@ toc: true
 
 ## Education
 
-Post Graduate Diploma in Technology Management  
+Post Graduate Diploma in Management (Technology Management)  
 Symbiosis Centre for Management & Human Resource Development 
 
 Master of Design (Human Computer Interaction)  
@@ -20,6 +20,7 @@ School of Computer Science & Engineering, Sandip University
 
 Bachelor of Engineering (Computer Science & Engineering)  
 Radharaman Institute of Technology & Science 
+
 
 ## Work experience
 
@@ -43,6 +44,22 @@ November 2013 to March 2015, Product Management Capability; Pune – India
 
 Business Analyst at Cybage Software, Designation – Software Engineer  
 February 2011 to October 2013, Consulting & Development of Products & Applications; Pune – India 
+
+
+## Certifications  
+
+Certified Product Manager (CPM) 
+Association of International Product Marketing & Management, United States
+
+Certified Scrum Product Owner (CSPO) 
+Scrum Alliance, United States
+
+Certified Usability Analyst (CUA) 
+Human Factors International, United States
+
+Certified Payment-card Industry Security Implementer (CPISI) 
+PCI DSS / SISA, United States
+
 
 ### Tutorial
 
