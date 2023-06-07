@@ -10,6 +10,8 @@ weight: 100
 toc: true
 ---
 
+## A day in my life
+
 ## Education
 
 Post Graduate Diploma in Management (Technology Management)  
