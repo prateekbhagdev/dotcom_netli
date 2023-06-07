@@ -11,7 +11,7 @@ toc: true
 ---
 
 ## A day in my life
-![Image](A-day-in-my-life.png "A day in my life")
+![Image](A-day-in-my-life.jpg "A day in my life")
 
 
 ## Education
