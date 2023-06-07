@@ -48,17 +48,17 @@ February 2011 to October 2013, Consulting & Development of Products & Applicatio
 
 ## Certifications  
 
-Certified Product Manager (CPM) 
-Association of International Product Marketing & Management, United States
+Certified Product Manager (CPM)  
+Association of International Product Marketing & Management, United States   
 
-Certified Scrum Product Owner (CSPO) 
-Scrum Alliance, United States
+Certified Scrum Product Owner (CSPO)  
+Scrum Alliance, United States   
 
-Certified Usability Analyst (CUA) 
-Human Factors International, United States
+Certified Usability Analyst (CUA)   
+Human Factors International, United States   
 
-Certified Payment-card Industry Security Implementer (CPISI) 
-PCI DSS / SISA, United States
+Certified Payment-card Industry Security Implementer (CPISI)   
+PCI DSS / SISA, United States   
 
 
 ### Tutorial
