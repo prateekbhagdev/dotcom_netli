@@ -11,9 +11,9 @@ toc: true
 ---
 
 ## A day in my life
-<h1>
+<p>
 <img src=A-day-in-my-life.jpg alt="A day in my life" style="width: 500px; height: auto; border-radius: 3%;">
-</h1>
+</p>
 
 
 ## Education
