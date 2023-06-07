@@ -11,6 +11,8 @@ toc: true
 ---
 
 ## A day in my life
+<img src=A-day-in-my-life.png alt="A day in my life" style="border-radius: 3%;">
+
 
 ## Education
 
