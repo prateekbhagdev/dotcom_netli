@@ -96,8 +96,8 @@
  # weight = 20
 
 
-[[footer]]
-  name = "p"
-  pre = "<img src=\"icon_66x66.png\" alt=\"Italian Trulli\">"
-  url = "/privacy-policy/"
-  weight = 10
+#[[footer]]
+ # name = "p"
+ # pre = "<img src=\"icon_66x66.png\" alt=\"Italian Trulli\">"
+ # url = "/privacy-policy/"
+ # weight = 10
