@@ -12,7 +12,7 @@ toc: true
 
 ## A day in my life
 <p>
-<img src=/docs/A-day-in-my-life.jpg alt="A day in my life" style="width: 500px; height: auto; border-radius: 3%;">
+<img src=/docs/A-day-in-my-life.jpg alt="A day in my life" style="width: 450px; height: auto; border-radius: 3%;">
 </p>
 
 
