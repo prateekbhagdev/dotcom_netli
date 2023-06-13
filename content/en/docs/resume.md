@@ -10,12 +10,6 @@ weight: 100
 toc: true
 ---
 
-## A day in my life
-<p>
-<img src=/docs/A-day-in-my-life.jpg alt="A day in my life" style="width: 450px; height: auto; border-radius: 3%;">
-</p>
-
-
 ## Education
 
 Post Graduate Diploma in Management (Technology Management)  
@@ -68,9 +62,14 @@ PCI DSS / SISA, United States
 
 
 ## Extra-curricular success 
-Mentored new team members & made them understand different tools.  
-Managed many cultural events at college level and in Cybage, ASPL & Vodafone.  
-Possess better interpersonal & communication skills.  
-Having Quick and Good Learning Ability.  
-Enthusiastic about working over future technologies.  
-Bronze Medalist in Annual State Championships for Table Tennis for 3 consecutive years.
+With Vodafone, volunteered to conduct fortnightly classes on digital literacy for under-provisioned school students
+Mentored new team members & taught them the nitty-gritty of product experience like User Journey Map & more
+Finalist & led the team in the Rockefeller Foundation’s Social Innovation Challenge
+Managed annual cultural events at the college level and in Cybage, Eastern Enterprise & Vodafone
+Bronze medallist in Annual National & State Championships for Table Tennis for 3 consecutive years while schooling
+
+
+## A day in my life
+<p>
+<img src=/docs/A-day-in-my-life.jpg alt="A day in my life" style="width: 450px; height: auto; border-radius: 3%;">
+</p>
