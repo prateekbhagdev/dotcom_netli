@@ -63,9 +63,13 @@ PCI DSS / SISA, United States
 
 ## Extra-curricular success 
 With Vodafone, volunteered to conduct fortnightly classes on digital literacy for under-provisioned school students  
+
 Mentored new team members & taught them the nitty-gritty of product experience like User Journey Map & more  
+
 Finalist & led the team in the Rockefeller Foundation’s Social Innovation Challenge  
+
 Managed annual cultural events at the college level and in Cybage, Eastern Enterprise & Vodafone  
+
 Bronze medallist in Annual National & State Championships for Table Tennis for 3 consecutive years while schooling  
 
 
