@@ -27,7 +27,7 @@
 				</nav>
 			{{ end }}
 			<h1>{{ .Title }}</h1>
-      <br><a class="btn btn-primary btn-sm px-4 mb-2" href="{{ "docs/overview/introduction/" | relURL }}" role="button">Download resume</a><br>
+      <br><a class="btn btn-primary btn-sm px-4 mb-2" href="{{ "docs/overview/introduction/" | relURL }}" role="button">Download resume</a><br><br>
 			<p class="lead">{{ .Params.lead | safeHTML }}</p>
       {{ if ne .Params.toc false -}}
 			<nav class="d-xl-none" aria-label="Quaternary navigation">
