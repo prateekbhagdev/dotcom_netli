@@ -47,7 +47,7 @@
         <button type="button" class="btn-close text-reset me-2" data-bs-dismiss="offcanvas" aria-label="Close main menu"></button>
       </div>
       <div class="offcanvas-body p-4 p-lg-0">
-        <h3 class="h6 text-uppercase mb-3 d-md-none">Main</h3>
+        <h3>Main</h3>
         <ul class="nav flex-column flex-lg-row align-items-lg-center mt-2 mt-lg-0 ms-lg-2 me-lg-auto">
           {{- $current := . -}}
           {{- $section := $current.Section -}}
@@ -95,7 +95,7 @@
         {{ end -}}
 
         <hr class="text-black-50 my-4 d-lg-none">
-        <h3 class="h6 text-uppercase mb-3 d-md-none">Connect</h3>
+        <h3>Connect</h3>
         <ul class="nav flex-column flex-lg-row">
           {{ range .Site.Menus.social -}}
             <li class="nav-item">
