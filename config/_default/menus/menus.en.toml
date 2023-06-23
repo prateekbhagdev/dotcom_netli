@@ -50,6 +50,12 @@
   identifier = "get-started"
   url = "/contact/index/"
 
+[[main]]
+  name = "Contact1"
+  weight = 40
+  identifier = "get-started"
+  url = "/_contact1/"
+
 #[[main]]
  # name = "Quick Start"
  # weight = 40
