@@ -53,7 +53,6 @@
 [[main]]
   name = "Contact1"
   weight = 40
-  identifier = "get-started"
   url = "/_contact1/"
 
 #[[main]]
