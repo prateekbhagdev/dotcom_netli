@@ -30,10 +30,10 @@ January 2021 to current, Product Management & Customer Experience
 Product Manager at Vodafone Group, Designation – Manager   
 November 2018 to December 2020, Product Management & Customer Experience   
 
-Product Owner at Vodafone Group (VISPL), Designation – Deputy Manager   
+Product Owner at Vodafone Group, Designation – Deputy Manager   
 January 2018 to October 2018, Products, User Experience, Business Requirements   
 
-Product Experience Lead at Vodafone Group (VISPL), Designation – Assistant Manager   
+Product Experience Lead at Vodafone Group, Designation – Assistant Manager   
 November 2015 to December 2017, Products, User Experience, Business Requirements   
 
 Team Lead at The Rockefeller Foundation   
@@ -45,7 +45,7 @@ November 2015 to February 2017, Product Management & Strategy, User Experience
 Product Owner at Cognizant Technology Solutions, Designation – Associate   
 March 2015 to October 2015, Product & Experience Strategy & Consulting   
 
-Business & Usability Lead at Eastern Enterprise B.V. (Ansh Systems), Designation – Business Analyst   
+Business & Usability Lead at Eastern Ent. B.V. (Ansh Systems), Designation – Business Analyst   
 November 2013 to March 2015, Product Management Capability   
 
 Technology Consultant at Cybage Software, Designation – Software Engineer   
