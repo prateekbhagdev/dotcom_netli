@@ -24,26 +24,35 @@ Radharaman Institute of Technology & Science
 
 ## Work experience
 
-Lead Product Strategist at Vodafone Technology Centre (VSSI), Designation – Manager  
-November 2018 to current, Product Management, User Journey Mapping, Competitive Analysis; Pune – India
+Senior Product Manager at Vodafone Group, Designation – Senior Manager   
+January 2021 to current, Product Management & Customer Experience   
 
-Sr. Product Strategist at Vodafone Technology Centre (VSSI), Designation – Deputy Manager  
-January 2018 to October 2018, Product Management, User Journey Mapping, Competitive Analysis; Pune – India 
+Product Manager at Vodafone Group, Designation – Manager   
+November 2018 to December 2020, Product Management & Customer Experience   
 
-Product Strategist at Vodafone Technology Centre (VSSI), Designation – Assistant Manager  
-November 2015 to December 2017, Product Management, Research & User Experience Analysis; Pune – India 
+Product Owner at Vodafone Group (VISPL), Designation – Deputy Manager   
+January 2018 to October 2018, Products, User Experience, Business Requirements   
 
-Founder at Zipplis  
-November 2015 to February 2017, Product Management & Strategy, Experience Design 
+Product Experience Lead at Vodafone Group (VISPL), Designation – Assistant Manager   
+November 2015 to December 2017, Products, User Experience, Business Requirements   
 
-Product Owner at Cognizant Technology Solutions, Designation – Associate (Projects)  
-March 2015 to October 2015, Product & Experience Strategy & Consulting; Pune – India 
+Team Lead at The Rockefeller Foundation   
+October 2019 to December 2019, Runner-up Social Innovation Challenge   
 
-Product Manager at Ansh Systems Pvt. Ltd. (EE B.V.), Designation – Business Analyst  
-November 2013 to March 2015, Product Management Capability; Pune – India 
+Founder at Zipplis   
+November 2015 to February 2017, Product Management & Strategy, User Experience   
 
-Business Analyst at Cybage Software, Designation – Software Engineer  
-February 2011 to October 2013, Consulting & Development of Products & Applications; Pune – India 
+Product Owner at Cognizant Technology Solutions, Designation – Associate   
+March 2015 to October 2015, Product & Experience Strategy & Consulting   
+
+Business & Usability Lead at Eastern Enterprise B.V. (Ansh Systems), Designation – Business Analyst   
+November 2013 to March 2015, Product Management Capability   
+
+Technology Consultant at Cybage Software, Designation – Software Engineer   
+February 2011 to October 2013, Consulting & Development of Product & Applications   
+
+Intern - Technology Systems at Department of Telecommunications, India   
+June 2009 to August 2009, Client Systems & Database, Tele Switching   
 
 
 ## Certifications  
