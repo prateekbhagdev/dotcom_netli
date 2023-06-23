@@ -45,7 +45,7 @@ November 2015 to February 2017, Product Management & Strategy, User Experience
 Product Owner at Cognizant Technology Solutions, Designation – Associate   
 March 2015 to October 2015, Product & Experience Strategy & Consulting   
 
-Business & Usability Lead at Eastern Ent. B.V. (Ansh Systems), Designation – Business Analyst   
+Business & Usability Lead at Eastern Ent. B.V. (Ansh Sys), Designation – Business Analyst   
 November 2013 to March 2015, Product Management Capability   
 
 Technology Consultant at Cybage Software, Designation – Software Engineer   
