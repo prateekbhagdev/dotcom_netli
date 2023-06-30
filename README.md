@@ -47,7 +47,7 @@ Main reasons why this is great:
 npm install
 ```
 
-## Documentation
+## Credits & documentation
 
 - [Netlify](https://docs.netlify.com/)
 - [Hugo](https://gohugo.io/documentation/)
