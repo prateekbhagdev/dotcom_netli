@@ -27,7 +27,7 @@
 				</nav>
 			{{ end }}
 			<h1>{{ .Title }}</h1>
-      <a class="btn btn-primary btn-sm px-4 mb-2" href="{{ "https://drive.google.com/file/d/1Bynybj9Eqq4m5EW8oJNcGY2uJMGiUA4P/view?usp=drive_link" target="_blank" rel="noopener noreferrer" | relURL }}" role="button">Download resume</a><br><br>
+      <a class="btn btn-primary btn-sm px-4 mb-2" href="{{ "https://drive.google.com/file/d/1Bynybj9Eqq4m5EW8oJNcGY2uJMGiUA4P/view?usp=drive_link" | relURL }}" role="button" target="_blank" rel="noopener noreferrer">Download resume</a><br><br>
 			<p class="lead">{{ .Params.lead | safeHTML }}</p>
       {{ if ne .Params.toc false -}}
 			<nav class="d-xl-none" aria-label="Quaternary navigation">
