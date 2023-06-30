@@ -80,7 +80,6 @@ images: []
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-DGKZLRHRZ4');
 </script>
         <div class="wrap container-xxl" role=document>
