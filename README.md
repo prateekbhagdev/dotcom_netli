@@ -1,20 +1,10 @@
-<p align="center">
-  <a href="https://getdoks.org/">
-    <img alt="Doks" src="https://doks.netlify.app/doks.svg" width="60">
-  </a>
-</p>
+# [prateekbhagdev.github.io]
 
-<h1 align="center">
-  Doks
-</h1>
+[![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](http://opensource.org/licenses/MIT)
+[![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/prateekbhagdev)
 
-<h3 align="center">
-  Modern Documentation Theme
-</h3>
-
-<p align="center">
-  Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize.
-</p>
+A three-column site with the universal top navigation. Clean & minimal :smile:.  
+Usage: Hosting of personal site, blog, portfolio on Netlify, GitHub or self-hosting on own server.
 
 <p align="center">
   <a href="https://github.com/h-enk/doks/blob/master/LICENSE">
@@ -36,9 +26,6 @@
 
 ![Doks — Modern Documentation Theme](https://raw.githubusercontent.com/h-enk/doks/master/images/doks.png)
 
-## Demo
-
-- [doks.netlify.app](https://doks.netlify.app/)
 
 ## Why Doks?
 
