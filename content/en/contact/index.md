@@ -82,6 +82,14 @@ images: []
   gtag('js', new Date());
   gtag('config', 'G-DGKZLRHRZ4');
 </script>
+      <!-- Microsoft tag -->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "hrygq5gg0q");
+</script>
         <div class="wrap container-xxl" role=document>
             <div class="home">
                 <div class="row justify-content-center">
