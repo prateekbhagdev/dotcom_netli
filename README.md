@@ -6,9 +6,9 @@
 A three-column site with the universal top navigation. Clean & minimal :smile:.  
 Usage: Hosting of personal site, blog, portfolio on Netlify, GitHub or self-hosting on own server.
 
-## Why Doks?
+## Facets
 
-Nine main reasons why you should use Doks:
+Main reasons why this is great:
 
 1. __Security aware__. Get A+ scores on [Mozilla Observatory](https://observatory.mozilla.org/analyze/doks.netlify.app) out of the box. Easily change the default Security Headers to suit your needs.
 
