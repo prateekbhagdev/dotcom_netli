@@ -1,4 +1,4 @@
-# [prateekbhagdev.github.io]
+# [prateekbhagdev.netlify.app]
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](http://opensource.org/licenses/MIT)
 [![Tip Me via PayPal](https://img.shields.io/badge/PayPal-tip%20me-green.svg?logo=paypal)](https://www.paypal.me/prateekbhagdev)
