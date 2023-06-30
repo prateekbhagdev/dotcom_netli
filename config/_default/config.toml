@@ -1,5 +1,4 @@
 baseurl = "https://prateekbhagdev.com/"
-googleAnalytics = "G-DGKZLRHRZ4"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
