@@ -31,6 +31,6 @@ We run [Plausible](https://plausible.io/) analytics. The following information i
 
 ## Contact us
 
-[Contact us]({{< relref "contact/index.md" >}}) if you have any questions.
+[Contact]({{< relref "contact/index.md" >}}) if you have any questions.
 
 Effective Date: _27th June 2023_
