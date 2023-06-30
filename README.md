@@ -36,68 +36,16 @@ Main reasons why this is great:
 - __Mermaid__ diagrams and visualization
 - __highlight.js__ syntax highlighting
 
-## Requirements
+## Installation 
 
 - [Git](https://git-scm.com/) — latest source release
 - [Node.js](https://nodejs.org/) — latest LTS version or newer
 
-<details>
-<summary>Why Node.js?</summary>
-
-Doks uses npm (included with Node.js) to centralize dependency management, making it [easy to update](https://getdoks.org/docs/help/how-to-update/) resources, build tooling, plugins, and build scripts.
-
-</details>
-
-## Get started
-
-Start a new Doks project in three steps:
-
-### 1. Create a new site
-
-Doks is available as a child theme and a starter theme.
-
-#### Child theme
-
-- Intended for novice to intermediate users
-- Intended for minor customizations
-- [Easily update npm packages](https://getdoks.org/docs/help/how-to-update/) — __including__ [Doks](https://www.npmjs.com/package/@hyas/doks)
-
-```bash
-git clone https://github.com/h-enk/doks-child-theme.git my-doks-site && cd my-doks-site
-```
-
-#### Starter theme
-
-- Intended for intermediate to advanced users
-- Intended for major customizations
-- [Easily update npm packages](https://getdoks.org/docs/help/how-to-update/)
-
-```bash
-git clone https://github.com/h-enk/doks.git my-doks-site && cd my-doks-site
-```
-
-<details>
-<summary>Help me choose</summary>
-
-Not sure which one is for you? Pick the child theme.
-
-</details>
-
-### 2. Install dependencies
+## Install dependencies
 
 ```bash
 npm install
 ```
-
-### 3. Start development server
-
-```bash
-npm run start
-```
-
-## Other commands
-
-Doks comes with [commands](https://getdoks.org/docs/prologue/commands/) for common tasks.
 
 ## Documentation
 
