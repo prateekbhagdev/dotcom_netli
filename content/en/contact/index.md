@@ -74,22 +74,6 @@ images: []
         <link rel=manifest crossorigin=use-credentials href=https://doks.netlify.app/site.webmanifest>
     </head>
     <body class="home">
-      <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-DGKZLRHRZ4"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-DGKZLRHRZ4');
-</script>
-      <!-- Microsoft tag -->
-<script type="text/javascript">
-    (function(c,l,a,r,i,t,y){
-        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-    })(window, document, "clarity", "script", "hrygq5gg0q");
-</script>
         <div class="wrap container-xxl" role=document>
             <div class="home">
                 <div class="row justify-content-center">
