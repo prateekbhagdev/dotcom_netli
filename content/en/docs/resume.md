@@ -12,14 +12,14 @@ toc: true
 
 ## Education
 
-Post Graduate Diploma in Management (Technology Management)  
-Symbiosis Centre for Management & Human Resource Development 
+Master of Business Administration - MBA (AI & Tech Commercialization)  
+Boston University, Questrom School of Business 
 
-Master of Design (Human Computer Interaction)  
+Master of Design - MDes (Human Computer Interaction)  
 School of Computer Science & Engineering, Sandip University  
 
-Bachelor of Engineering (Computer Science & Engineering)  
-Radharaman Institute of Technology & Science 
+Bachelor of Engineering - BE (Computer Science & Engineering)  
+Radharaman Institute of Technology & Science, RGPV 
 
 
 ## Work experience
