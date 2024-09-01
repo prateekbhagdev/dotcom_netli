@@ -70,19 +70,21 @@ Certified Payment-card Industry Security Implementer (CPISI)
 PCI DSS / SISA, United States   
 
 
-## Extra-curricular success 
+## Extra-curricular success  
+
 With Vodafone, volunteered to conduct fortnightly classes on digital literacy for under-provisioned school students.  
 
-Mentored new team members & taught them the nitty-gritty of product experience like User Journey Map & more.  
+Mentored new team members & taught them the nitty-gritty of product experience like Customer Journey Map & more.  
 
 Finalist & led the team in the Rockefeller Foundation’s Social Innovation Challenge.  
 
-Managed annual cultural events at the college level and in Cybage, Eastern Enterprise & Vodafone.
+Managed annual cultural events at the college level & in Cybage, Eastern Enterprise & Vodafone.
 
 Bronze medallist in Annual National & State Championships for Table Tennis for 3 consecutive years while schooling.  
 
 
-## A day in my life
+## A day in my life  
+
 <p>
 <img src=/docs/A-day-in-my-life.jpg alt="A day in my life" style="width: 450px; height: auto; border-radius: 3%;">
 </p>
