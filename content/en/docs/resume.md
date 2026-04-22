@@ -1,7 +1,7 @@
 ---
 title: "Resume"
-description: "Product Management, User Experience & Technology Leadership."
-lead: "Product Management, User Experience & Technology Leadership."
+description: "User Experience, Product Management & Technology Leadership."
+lead: "User Experience, Product Management & Technology Leadership."
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
