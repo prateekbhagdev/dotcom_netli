@@ -1,7 +1,7 @@
 ---
 title: "Resume"
-description: "User Experience, Product Management & Technology Leadership."
-lead: "User Experience, Product Management & Technology Leadership."
+description: "Product Management, User Experience & Technology Leadership."
+lead: "Product Management, User Experience & Technology Leadership."
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
@@ -24,13 +24,13 @@ Radharaman Institute of Technology & Science, RGPV
 
 ## Work experience
 
-Group Product Design Manager at Vodafone Group   
+Group Product Manager at Vodafone Group   
 January 2021 to current, Product Management & Customer Experience   
 
-Product Design Manager at Vodafone Group   
+Product Manager at Vodafone Group   
 November 2018 to December 2020, Product Management & Customer Experience   
 
-Product Owner - Plaform Experience at Vodafone Group   
+Product Owner at Vodafone Group   
 January 2018 to October 2018, Products, User Experience, Business Requirements   
 
 Product Experience Lead at Vodafone Group   
@@ -42,13 +42,13 @@ October 2019 to December 2019, Runner-up Social Innovation Challenge
 Founder at Zipplis   
 November 2015 to February 2017, Product Management & Strategy, User Experience   
 
-UX Manager Associate at Cognizant Technology Solutions   
+Product Owner at Cognizant Technology Solutions   
 March 2015 to October 2015, Product & Experience Strategy & Consulting   
 
 Business & Usability Lead at Eastern Enterprise B.V. (Ansh Systems)  
 November 2013 to March 2015, Product Management Capability   
 
-UX Analyst at Cybage Software   
+Technology Consultant at Cybage Software   
 February 2011 to October 2013, Consulting & Development of Product & Applications   
 
 Intern - Technology Systems at Department of Telecommunications, India   
@@ -57,14 +57,14 @@ June 2009 to August 2009, Client Systems & Database, Tele Switching
 
 ## Certifications  
 
-Certified Usability Analyst (CUA)   
-Human Factors International, United States   
-
 Certified Product Manager (CPM)  
 Association of International Product Marketing & Management, United States   
 
 Certified Scrum Product Owner (CSPO)  
 Scrum Alliance, United States   
+
+Certified Usability Analyst (CUA)   
+Human Factors International, United States   
 
 Certified Payment-card Industry Security Implementer (CPISI)   
 PCI DSS / SISA, United States   
